@@ -1,6 +1,6 @@
 #include <string.h>
 
-//destination
+//destination - source - number of characters to be copied
 char* my_strncpy(char* param_1, char* param_2, int param_3)
 {
     char *start = param_2;
