@@ -13,4 +13,10 @@ Rebuild some of the C library function
 
 - Copy the string source (src) to destination (dst).
 
-4. 
+4. strncpy() function.
+
+- Copies up to n characters from the string pointed to, by src to dest. char *strncpy(char *dest, const char *src, size_t n) 
+
+5. strchr() function.
+
+- Searches for the first occurrence of the character c (an unsigned char) in the string pointed to by the argument str.
