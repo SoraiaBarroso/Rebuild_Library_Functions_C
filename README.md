@@ -25,10 +25,6 @@ Rebuild some of the C library function
 
 - Searches for the last occurrence of the character c (an unsigned char) in the string pointed to by the argument str. Returns a pointer pointing to the last matching character, or null if no match was found.
 
-7. strrchr() function.
-
-- Searches for the last occurrence of the character c (an unsigned char) in the string pointed to by the argument str. Returns a pointer pointing to the last matching character, or null if no match was found.
-
-8. strstr() function
+7. strstr() function
 
 - Returns a pointer to the first occurrence of needle in haystack, or NULL if needle is not part of haystack.
