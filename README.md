@@ -1,2 +1,8 @@
 # Rebuild_Library_Functions_C
-rebuild some of the C library function 
+Rebuild some of the C library function 
+
+1. strrev() function.
+
+- The strrev() function is used to reverse the given string. 
+
+2.
