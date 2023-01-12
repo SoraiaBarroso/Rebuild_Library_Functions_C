@@ -8,3 +8,9 @@ Rebuild some of the C library function
 2. strcmp() function.
 
 - Compares string1 with string2 to see if there are equals. If they are equal return 0 else return 1.
+
+3. strcpy() function.
+
+- Copy the string source (src) to destination (dst).
+
+4. 
