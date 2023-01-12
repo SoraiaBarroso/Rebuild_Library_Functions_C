@@ -6,7 +6,7 @@ char* my_strchr(char* param_1, char param_2)
     {
         if(param_1[i] == param_2)
         {
-            return param_1 + i  ;
+            return param_1 + i;
         }
     }
     
